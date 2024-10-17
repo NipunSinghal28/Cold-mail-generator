@@ -256,7 +256,6 @@ pyinstaller==6.3.0
 pyinstaller-hooks-contrib==2023.10
 pyparsing==3.0.9
 PyPika==0.48.9
-pypiwin32==223
 pyproject_hooks==1.1.0
 pyreadline3==3.5.4
 PySocks==1.7.1
